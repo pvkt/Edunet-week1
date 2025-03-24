@@ -1,0 +1,33 @@
+span{
+    color:red;
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+    display: block;
+    margin-top: 5px;
+}
+
+input {
+    padding: 8px;
+    width: 200px;
+    margin: 5px;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+
+button:hover {
+    background-color: darkblue;
+}
+
+.gender{
+    text-align: center;
+}
